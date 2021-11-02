@@ -7,6 +7,8 @@
     android:layout_margin="10dp"
     android:layout_height="250dp" >
 
+<!--    layout margin es para dar separacion a los items-->
+
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
